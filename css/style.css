@@ -1,0 +1,66 @@
+h1 {
+    font-family: 'Roboto', sans-serif;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.navbar {
+  margin: 0;
+}
+
+.navbar-inverse .navbar-brand {
+  color: #01b9ff
+}
+
+.navbar-inverse .navbar-nav>li>a{
+  color: #01b9ff
+}
+
+.hero {
+  background-image: url(../img/hero_img.jpg);
+  height: 80vh;
+  background-position: left;
+  margin: 0;
+  color: white;
+  display: flex;
+  align-items: center;
+}
+
+.hero h1 {
+  font-size: 48px;
+}
+
+.hero p {
+  font-size: 26px;
+}
+
+#portfolio-section {
+  margin-top: 75px;
+}
+
+#portfolio-section h1 {
+  font-weight: 700;
+  margin-bottom: 50px;
+}
+
+#portfolio-section p {
+  font-size: 24px
+}
+
+#about-section {
+  margin-top: 50px;
+}
+
+img {
+  box-shadow: 5px 5px 5px #373737;
+}
+
+.sparky {
+  margin-top: 68px;
+}
+
+.vallum {
+  margin-top: 40px
+}
