@@ -18,6 +18,10 @@ p {
   color: #01b9ff
 }
 
+.navbar-collapse {
+  color: #01b9ff;
+}
+
 .hero {
   background-image: url(../img/hero_img.jpg);
   height: 80vh;
